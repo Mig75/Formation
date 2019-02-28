@@ -1,1 +1,1 @@
-# Formation
+# Formation - Git training
